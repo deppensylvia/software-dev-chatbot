@@ -9,5 +9,5 @@ When replicating it locally I rand into several errors. The process to get the c
 
 1. 403 Error - Change post url in main.js to include the server's port number
 2. CORS Error - Installed CORS and specified allowing client port 5500
-3. 500 Error - Used documentation to update code structure to import openai as an npm package
+3. 500 Error - Used documentation to update code structure to import openai as an npm package (https://platform.openai.com/docs/quickstart?api-mode=chat)
 4. 429 Error - I exceeded my current quota so I had to take a break... to be continued
